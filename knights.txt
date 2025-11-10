@@ -1,0 +1,4 @@
+Arthur,King,Blue,Holy Grail,Noble and brave
+Bedevere,Sir,Red,The Grail,AARRRRRRRGGGGHH
+Lancelot,Sir,Green,Rescue the Queen,Fearless and loyal
+Gawain,Sir,Yellow,Seek adventure,Honorable and strong

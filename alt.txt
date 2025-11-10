@@ -1,0 +1,10 @@
+apple 
+bat 
+ant 
+ball 
+anchor 
+banana 
+basket 
+antelope 
+boat 
+alley
